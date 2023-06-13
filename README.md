@@ -62,6 +62,7 @@
 
 
 ## Git Commit
+![git개발진척도](https://github.com/subin0702/2018148021_android_project/assets/90156320/58add75b-4b0f-44e7-a804-a0582da73b07)
 
 
 ## 기술사항
