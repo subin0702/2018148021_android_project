@@ -77,11 +77,11 @@ Sound Play , Bitmap, Button, Button touch Event
 ```
 구글 및 유튜브 자료 참고
 ```
-Sound Play, Factory함수 사용, Button, 이벤트 처리
 
 **<수업내용 참고>**
-
-
+```
+Sound Play, Factory함수 사용, Button, 이벤트 처리
+```
 #### 아쉬웠던 점
 
 ```
